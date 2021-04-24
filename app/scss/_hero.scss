@@ -24,7 +24,7 @@
         @include breakpoints-up(large){
             flex: 3;
             order: 2;
-            min-height: 41rem;
+            min-height: 50rem;
             background-image: none;
             //background-image: url(/images/image-mockups.png);
             //background-position: left center;
@@ -45,9 +45,9 @@
                 //background-size: 90%;
                 background-repeat: no-repeat;
                 background-position: center bottom;
-                width: 150%;
-                background-size: 122%;
-                background-position: 0% 83%;
+                width: 220%;
+                background-size: 110%;
+                background-position: 0% 88%;
             }
         }
         
@@ -69,8 +69,8 @@
                 height: 122%;
                 width: 132%;
                 background-image: url(/images/image-mockups.png);
-                background-size: 90%;
-                background-position: center 105%;
+                background-size: 105%;
+                background-position: center 120%;
                 top: 0;
                 left: 20%;
             }
