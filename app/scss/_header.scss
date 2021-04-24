@@ -1,4 +1,7 @@
 .header{
+    position: relative;
+    z-index: 1;
+
     &.open { //hamburger open
         .header__toggle{
             > span:first-child{
